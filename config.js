@@ -10,7 +10,7 @@ const CONFIG = {
     btnYes: 'Lên xe anh đèo :>',
     btnNo: 'Không lên xe đâu :<',
     question: 'Tại sao em lại dí vào link chứ :)))',
-    btnReply: 'Gửi cho em <3',
+    btnReply: 'Gửi cho anh <3',
     reply: 'Vì trông anh xấu trai vl =)))',
     mess: 'Anh biết mà =)). ',
     messDesc: 'Tối nay 7h, anh qua đón đi chơi nha.',
